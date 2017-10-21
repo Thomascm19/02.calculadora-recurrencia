@@ -404,7 +404,7 @@ public class calculadoraOrdenD extends javax.swing.JFrame {
     }//GEN-LAST:event_txtA1ActionPerformed
 
     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
-       add 
+       
     }//GEN-LAST:event_btnCalcularActionPerformed
 
     /**
