@@ -109,6 +109,11 @@ public class calculadoraOrdenD extends javax.swing.JFrame {
         });
 
         btnCalcular.setText("Calcular");
+        btnCalcular.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnCalcularActionPerformed(evt);
+            }
+        });
 
         btnBorrar.setText("Borrar");
 
@@ -397,6 +402,10 @@ public class calculadoraOrdenD extends javax.swing.JFrame {
     private void txtA1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtA1ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_txtA1ActionPerformed
+
+    private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
+       add 
+    }//GEN-LAST:event_btnCalcularActionPerformed
 
     /**
      * @param args the command line arguments
