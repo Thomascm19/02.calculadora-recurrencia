@@ -1,1 +1,1 @@
-# calculadora-recurrencia
+# recurrence-calculator
